@@ -4,21 +4,27 @@
 
 Below are the example of some chat.
 
-Human: Hi its Ashish Kumar.
-AI :  Nice to meet you, Ashish! I'm here to help with any questions or tasks you may have. What's on your mind today? Do you need assistance with something specific or just looking for some general guidance? Let me know and I'll do my best to support you!
-Human: can you help me to solve basic math?  
-AI :  I'd be happy to help you with basic math, Ashish!
+Human: 
+Hi its Ashish Kumar.
+
+AI :  
+Nice to meet you, Ashish! I'm here to help with any questions or tasks you may have. What's on your mind      today? Do you need assistance with something specific or just looking for some general guidance? Let me know and I'll do my best to support you!
+
+Human: 
+can you help me to solve basic math?  
+
+AI :  
+I'd be happy to help you with basic math, Ashish!
 
 What kind of math are you working on? Do you have a specific problem or equation you're stuck on? Or would you like some practice with addition, subtraction, multiplication, or division?
-
 Let me know, and I'll do my best to assist you.
-Human: array division give some example.
-AI :  Array division is an interesting topic in math!
 
+Human: 
+array division give some example.
+
+AI :  
+Array division is an interesting topic in math!
 Array division is a process of dividing the elements of one array (a set of numbers) by another array. It's often used in computer programming to split or distribute values across different groups.
-
-Here are a few examples:
-
 
 Here are a few examples:
 
@@ -68,10 +74,13 @@ Result: [[5], [8.33], [11.67], [15]] (elements of Array A divided by correspondi
 ```
 
 In each example, we're dividing the elements of Array A by the corresponding elements in Array B. The result is an array where each element is the division of the corresponding elements in Array A and Array B.
-
 Do you have any specific questions about array division or would you like to see more examples?
-Human: now, translate my name in hindi.
-AI :  Ashish Kumar!
+
+Human: 
+now, translate my name in hindi.
+
+AI :  
+Ashish Kumar!
 
 In Hindi, your name "Ashish Kumar" can be translated as:
 
@@ -85,8 +94,11 @@ Where:
 So, अशिश कुमार (Aśiś Kumār) can be translated to "the remarkable young boy"!
 
 How's that? Would you like me to translate anything else for you?
-Human: how to solve quadratic equations?
-AI: Quadratic equations! Another great topic in math!
+
+Human: 
+how to solve quadratic equations?
+AI: 
+Quadratic equations! Another great topic in math!
 
 Solving quadratic equations is a fundamental concept in algebra. A quadratic equation is an equation of the form:
 
@@ -116,7 +128,7 @@ x = (-5 ± √(25 - 24)) / 2
 So, the solutions are x = (-5 + 1) / 2 = -2 and x = (-5 - 1) / 2 = -3.
 
 Would you like to see more examples or have any specific questions about solving quadratic equations?
-
 Let me know how I can help!
+
 Human:
 
